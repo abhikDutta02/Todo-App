@@ -1,0 +1,25 @@
+.item{
+    font-weight: bold;
+    padding: 20px;
+}
+.container{
+    margin: 0 auto;
+    width: 500px;
+    font-size: 20px;
+}
+.line{
+    border: 2px solid rgba(184, 176, 176, 0.586);
+}
+.delButton{
+    float: right;
+    border-radius: 7px;
+    border: none;
+    background-color: #9bb167;
+    padding: 13px 14px;
+    margin-top: -8px;
+    color: whitesmoke;
+    font-size: 15px;
+}
+.completed{
+    text-decoration: line-through;
+}

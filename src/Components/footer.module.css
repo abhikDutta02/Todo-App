@@ -1,0 +1,13 @@
+.container{
+    position: fixed;
+    bottom: 0;
+    background-color: rgb(171, 144, 78);
+    width: 100%;
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+}
+.item{
+    margin: 50px;
+    
+}
